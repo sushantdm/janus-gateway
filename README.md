@@ -1,3 +1,5 @@
+June 20 2020 Reusing Janus Gateway for personal use
+
 Janus WebRTC Server
 ===================
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](COPYING)
